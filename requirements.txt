@@ -1,0 +1,2 @@
+aiosmtpd==1.2
+atpublic==1.0
